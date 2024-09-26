@@ -1,4 +1,11 @@
 
+struct GameObject
+{
+
+};
+
+
+
 int main(int argc, char* argv[])
 {
     
